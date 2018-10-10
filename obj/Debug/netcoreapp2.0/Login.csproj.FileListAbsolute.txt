@@ -1,0 +1,10 @@
+/Users/stephaniekwon/Desktop/C#/Login/bin/Debug/netcoreapp2.0/Login.deps.json
+/Users/stephaniekwon/Desktop/C#/Login/bin/Debug/netcoreapp2.0/Login.runtimeconfig.json
+/Users/stephaniekwon/Desktop/C#/Login/bin/Debug/netcoreapp2.0/Login.runtimeconfig.dev.json
+/Users/stephaniekwon/Desktop/C#/Login/bin/Debug/netcoreapp2.0/Login.dll
+/Users/stephaniekwon/Desktop/C#/Login/bin/Debug/netcoreapp2.0/Login.pdb
+/Users/stephaniekwon/Desktop/C#/Login/obj/Debug/netcoreapp2.0/Login.csproj.CoreCompileInputs.cache
+/Users/stephaniekwon/Desktop/C#/Login/obj/Debug/netcoreapp2.0/Login.AssemblyInfoInputs.cache
+/Users/stephaniekwon/Desktop/C#/Login/obj/Debug/netcoreapp2.0/Login.AssemblyInfo.cs
+/Users/stephaniekwon/Desktop/C#/Login/obj/Debug/netcoreapp2.0/Login.dll
+/Users/stephaniekwon/Desktop/C#/Login/obj/Debug/netcoreapp2.0/Login.pdb
